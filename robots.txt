@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://watchhub.zkokatech.com/sitemap.xml
