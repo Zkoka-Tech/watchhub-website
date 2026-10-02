@@ -45,6 +45,7 @@
   var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   if (revealEls.length && "IntersectionObserver" in window && !reduceMotion) {
+    document.documentElement.classList.add("reveal-ready");
     revealEls.forEach(function (el) {
       var siblings = Array.prototype.filter.call(el.parentElement.children, function (child) {
         return child.hasAttribute("data-reveal");
