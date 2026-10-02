@@ -3,7 +3,7 @@
 ## Already configured
 - Google Play URL: https://play.google.com/store/apps/details?id=com.watchhub.zkokatech
 - Android is presented as available now.
-- iOS is presented only as planned for later.
+- iOS is presented only as coming soon.
 - Social links are intentionally omitted until real accounts exist.
 - Authentic app screenshots are used as supplied; their internal content is not modified.
 - robots.txt and sitemap.xml are included.
