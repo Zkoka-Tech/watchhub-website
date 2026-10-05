@@ -22,3 +22,6 @@
 
 ## Current privacy policy linked
 - https://zkokatech.com/watchhub/privacy-policy.html
+
+## SEO updates
+- Added a dedicated TV Time alternative SEO page at `/tv-time-alternative.html` and linked it from the homepage.
